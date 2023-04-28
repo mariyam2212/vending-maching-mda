@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VendingMachineMDA-EFSM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VendingMachineMDA_EFSM_jar</output-path>
+    <root id="archive" name="VendingMachineMDA-EFSM.jar">
+      <element id="module-output" name="VendingMachineMDA-EFSM" />
+    </root>
+  </artifact>
+</component>
