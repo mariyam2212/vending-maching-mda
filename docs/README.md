@@ -4,16 +4,16 @@ Goal:
 The goal of this project is to design two different Vending Machine (VM) components using the Model- Driven Architecture (MDA) and then implement these Vending Machine components based on this design.
 
 ### location of jar file:
-/SSAProject_FatimaMariyam/executables/jar&bat/VendingMachineMDA-EFSM.jar
+/executables/jar&bat/VendingMachineMDA-EFSM.jar
 
 ### location of .bat file:
-/SSAProject_FatimaMariyam/executables/jar&bat/TestDriver.bat
+/executables/jar&bat/TestDriver.bat
 
 ### location of source code:
-/SSAProject_FatimaMariyam/VendingMachine_MDAEFSM/
+/VendingMachine_MDAEFSM/
 
 ### location of project report 
-/SSAProject_FatimaMariyam/project_report/SSA_Report_FatimaMariyam.pdf
+/project_report/SSA_Report_FatimaMariyam.pdf
 
 ### pre-reqs
 java 1.6+
